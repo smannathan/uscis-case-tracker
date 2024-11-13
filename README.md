@@ -12,6 +12,11 @@
 - **Multi-Language Support**: View case details in multiple languages (e.g., English and Spanish).
 - **Private & Secure**: All data is stored on the user’s device; no external data sharing, ensuring complete privacy.
 
+### Applicaiton Demo
+
+<img src="images/demo.gif" alt="Add New Case" width="300" height="650">
+
+
 ### How to Use
 
 1. **Add a Case**: 
