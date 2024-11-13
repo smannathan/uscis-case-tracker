@@ -2,7 +2,7 @@
 
 **USCIS Case Tracker** is a privacy-focused mobile application designed to help users track their USCIS case statuses conveniently and securely on their device. It allows users to add, refresh, and view detailed information about their case(s) without sharing data with external servers, ensuring complete privacy.
 
-   <img src="images/home.png" alt="Home Screen" width="300" height="600">
+   <img src="images/home.png" alt="Home Screen" width="300" height="650">
 
 ### Features
 
@@ -19,20 +19,20 @@
    - Enter your USCIS case’s receipt number in the provided field.
    - Tap **Add Case** to save.
   
-      <img src="images/add.png" alt="Add New Case" width="300" height="600">
+      <img src="images/add.png" alt="Add New Case" width="300" height="650">
 
 
 2. **View Case Details**:
    - Tap on a case in the list on the Home screen.
    - This will bring up detailed information, including the case history and latest status updates.
   
-      <img src="images/details.png" alt="Case Details" width="300" height="600">
+      <img src="images/details.png" alt="Case Details" width="300" height="650">
 
 3. **Refresh Case Status**:
    - Tap the **refresh** icon on the Home screen.
    - A notification will confirm the status refresh and display the updated details.
 
-      <img src="images/refresh.png" alt="Refresh Status" width="300" height="600">
+      <img src="images/refresh.png" alt="Refresh Status" width="300" height="650">
 
 4. **Delete a Case**:
    - Tap the red **X** button next to a case to remove it from the tracking list.
