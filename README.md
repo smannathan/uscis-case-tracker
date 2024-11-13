@@ -1,50 +1,52 @@
-# Welcome to your Expo app 👋
+# USCIS Case Tracker
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**USCIS Case Tracker** is a privacy-focused mobile application designed to help users track their USCIS case statuses conveniently and securely on their device. It allows users to add, refresh, and view detailed information about their case(s) without sharing data with external servers, ensuring complete privacy.
 
-## Get started
+   <img src="images/home.png" alt="Home Screen" width="300" height="600">
 
-1. Install dependencies
+### Features
 
-   ```bash
-   npm install
-   ```
+- **Add New Cases**: Easily add a new USCIS case by entering the receipt number.
+- **View Case Details**: Get a comprehensive view of each case, including form type, status, last updated date, and additional descriptions.
+- **Refresh Case Status**: Manually refresh case status to get the latest updates directly from USCIS.
+- **Multi-Language Support**: View case details in multiple languages (e.g., English and Spanish).
+- **Private & Secure**: All data is stored on the user’s device; no external data sharing, ensuring complete privacy.
 
-2. Start the app
+### How to Use
 
-   ```bash
-    npx expo start
-   ```
+1. **Add a Case**: 
+   - Tap the **+** button on the Home screen.
+   - Enter your USCIS case’s receipt number in the provided field.
+   - Tap **Add Case** to save.
+  
+      <img src="images/add.png" alt="Add New Case" width="300" height="600">
 
-In the output, you'll find options to open the app in a
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+2. **View Case Details**:
+   - Tap on a case in the list on the Home screen.
+   - This will bring up detailed information, including the case history and latest status updates.
+  
+      <img src="images/details.png" alt="Case Details" width="300" height="600">
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+3. **Refresh Case Status**:
+   - Tap the **refresh** icon on the Home screen.
+   - A notification will confirm the status refresh and display the updated details.
 
-## Get a fresh project
+      <img src="images/refresh.png" alt="Refresh Status" width="300" height="600">
 
-When you're ready, run:
+4. **Delete a Case**:
+   - Tap the red **X** button next to a case to remove it from the tracking list.
 
-```bash
-npm run reset-project
-```
+### Privacy Policy
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Your data remains secure on your device, as the app does not send any data externally. This ensures that your case information is private and accessible only to you.
 
-## Learn more
+[Privacy Policy](PRIVACY_POLICY.md)
 
-To learn more about developing your project with Expo, look at the following resources:
+### Terms and Conditions
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+[Terms and conditions](TERMS_AND_CONDITIONS.md)
 
-## Join the community
+### Download
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+**[Download USCIS Case Tracker on the Google Play Store](https://play.google.com/store/apps/details?id=com.usciscasetracker)**
