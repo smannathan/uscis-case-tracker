@@ -49,4 +49,7 @@ Your data remains secure on your device, as the app does not send any data exter
 
 ### Download
 
-**[Download USCIS Case Tracker on the Google Play Store](https://play.google.com/store/apps/details?id=com.usciscasetracker)**
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png?size=250x83" alt="Download on Google Play" width="200" height="100">](https://play.google.com/store/apps/details?id=com.usciscasetracker)
+[<img src="https://toolbox.marketingtools.apple.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store" width="200" height="100">](https://apps.apple.com/us/app/uscis-case-tracker/id1234567890)
+
+
