@@ -14,8 +14,7 @@
 
 ### Applicaiton Demo
 
-<img src="images/demo.gif" alt="Add New Case" width="300" height="650">
-
+https://github.com/smannathan/uscis-case-tracker/blob/main/images/demo.mp4
 
 ### How to Use
 
