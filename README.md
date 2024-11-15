@@ -14,7 +14,7 @@
 
 ### Applicaiton Demo
 
-https://github.com/smannathan/uscis-case-tracker/blob/main/images/demo.mp4
+https://github.com/user-attachments/assets/17ef6c5d-4d80-41fd-8660-45a5eab846ce
 
 ### How to Use
 
